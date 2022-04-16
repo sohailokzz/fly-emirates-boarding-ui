@@ -1,10 +1,8 @@
-# fly_emirates
+## Flutter-Fly-Emirates-Boarding-Ui
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+This project is done for the prictice and learning that how to work with complex ui in flutter.
+The UI design credit goes to Mahmoud Mohasseb.
 
 A few resources to get you started if this is your first Flutter project:
 
